@@ -1,15 +1,18 @@
 # tokenomy
 Tokenomy modelling
-### Architecture
+## Architecture
 ![](architecture_token.png)
-### State machine diagram
-![](state_diagram_token.png)
-### Entity relationship
+## State machine diagram
+### Fixed deposit
+![](state_fd.png)
+## Stake and unstake
+![](state_stake.png)
+## Entity relationship
 ![](er_token.png)
-### Activity diagram
-## Fixed deposit
+## Activity diagram
+### Fixed deposit
 ![](fixed_deposit.png)
-## Stake
+### Stake
 ![](stake.png)
-## Unstake
+### Unstake
 ![](unstake.png)
